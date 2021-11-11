@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .test {
+    color: hsl(179, 62%, 43%);
+    color: hsl(71, 73%, 54%);
+    color: hsl(203, 44%, 93%);
+    color: hsl(218, 22%, 67%);
+    color: rgba(42, 178, 176, 0.7);
+} */
